@@ -1,2 +1,2 @@
 # App-Ejercicios
-Aplicacion desarollada con node.js  y react native para moviles.
+Aplicacion desarrollada con node.js  y react native para moviles.
